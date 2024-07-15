@@ -1,4 +1,4 @@
-Healthcare Service location provider 
+# Healthcare Service location provider 
 Welcome to the repository for the website me and my team designed for intel unnati summer training. 
 
 This project aims to show the closest healthcare services like doctors,hospitals,pharmacies etc using google places API.
